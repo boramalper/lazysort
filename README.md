@@ -63,7 +63,7 @@ The benchmark is done under the following conditions:
 __Sorting _n_ integers in range [0, 255]__
 ![](./benchmark-results/sorting-all-items.png)
 
-As can be seen from the results, lazysort do not scale.
+As can be seen from the results, lazysort does not scale.
 
 ## License
 > This is free and unencumbered software released into the public domain.
